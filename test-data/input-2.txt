@@ -1,0 +1,4 @@
+# Create a ship with one working and filled torpedo tube and one broken one
+GT4500,1,0,1,1
+TORPEDO,SINGLE
+TORPEDO,SINGLE
